@@ -1,0 +1,6 @@
+.user-card{
+    border: 1px dashed blue;
+    padding: 20px;
+    margin: 30px;
+    width: fit-content;
+}
